@@ -6,3 +6,6 @@ matplotlib
 seaborn
 requests
 flask
+pymongo
+certifi
+##-e .
