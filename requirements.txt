@@ -6,7 +6,7 @@ matplotlib
 seaborn
 requests
 flask
+pymongo[srv]==3.11
 pymongo
 certifi
-networksecurity
 ##-e .
