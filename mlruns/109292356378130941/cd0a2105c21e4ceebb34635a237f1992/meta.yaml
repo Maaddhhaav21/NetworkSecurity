@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/madhavmanoj/Documents/ML_Projects/NetworkSecurity/mlruns/109292356378130941/cd0a2105c21e4ceebb34635a237f1992/artifacts
+end_time: 1773158975859
+entry_point_name: ''
+experiment_id: '109292356378130941'
+lifecycle_stage: active
+run_id: cd0a2105c21e4ceebb34635a237f1992
+run_name: capable-quail-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773158973980
+status: 3
+tags: []
+user_id: maadhavmanoj21

@@ -1,0 +1,93 @@
+Abnormal_URL:
+  drift_status: false
+  p_value: 0.9751784512217775
+DNSRecord:
+  drift_status: false
+  p_value: 0.9911337131748138
+Domain_registeration_length:
+  drift_status: false
+  p_value: 0.9999148748234266
+Favicon:
+  drift_status: false
+  p_value: 0.9839578342817803
+Google_Index:
+  drift_status: false
+  p_value: 1.0
+HTTPS_token:
+  drift_status: false
+  p_value: 0.9219058767460279
+Iframe:
+  drift_status: false
+  p_value: 1.0
+Links_in_tags:
+  drift_status: false
+  p_value: 0.9999997772661215
+Links_pointing_to_page:
+  drift_status: false
+  p_value: 0.7353423319035793
+Page_Rank:
+  drift_status: false
+  p_value: 0.9985585060006266
+Prefix_Suffix:
+  drift_status: false
+  p_value: 0.9998388206083407
+Redirect:
+  drift_status: false
+  p_value: 1.0
+Request_URL:
+  drift_status: false
+  p_value: 0.9697727875445914
+Result:
+  drift_status: false
+  p_value: 0.9992001088769269
+RightClick:
+  drift_status: false
+  p_value: 1.0
+SFH:
+  drift_status: false
+  p_value: 0.9999745994767623
+SSLfinal_State:
+  drift_status: false
+  p_value: 0.9933426287191627
+Shortining_Service:
+  drift_status: false
+  p_value: 0.99999999945476
+Statistical_report:
+  drift_status: false
+  p_value: 1.0
+Submitting_to_email:
+  drift_status: false
+  p_value: 0.884074364741792
+URL_Length:
+  drift_status: false
+  p_value: 0.9999999999999919
+URL_of_Anchor:
+  drift_status: false
+  p_value: 0.9999992399051418
+age_of_domain:
+  drift_status: false
+  p_value: 0.9518099343765413
+double_slash_redirecting:
+  drift_status: false
+  p_value: 0.982673984199772
+having_At_Symbol:
+  drift_status: false
+  p_value: 1.0
+having_IP_Address:
+  drift_status: false
+  p_value: 0.9998688545448693
+having_Sub_Domain:
+  drift_status: false
+  p_value: 0.9999999962612656
+on_mouseover:
+  drift_status: false
+  p_value: 1.0
+popUpWidnow:
+  drift_status: false
+  p_value: 0.9999977235497168
+port:
+  drift_status: false
+  p_value: 1.0
+web_traffic:
+  drift_status: false
+  p_value: 0.884074364741792
