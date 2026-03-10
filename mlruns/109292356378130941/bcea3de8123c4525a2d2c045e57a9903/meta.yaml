@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/madhavmanoj/Documents/ML_Projects/NetworkSecurity/mlruns/109292356378130941/bcea3de8123c4525a2d2c045e57a9903/artifacts
+end_time: 1773153275077
+entry_point_name: ''
+experiment_id: '109292356378130941'
+lifecycle_stage: active
+run_id: bcea3de8123c4525a2d2c045e57a9903
+run_name: brawny-lynx-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773153273160
+status: 3
+tags: []
+user_id: madhavmanoj

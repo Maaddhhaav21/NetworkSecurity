@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/madhavmanoj/Documents/ML_Projects/NetworkSecurity/mlruns/109292356378130941/cea744dbc95f41c2baff469f87199d1a/artifacts
+end_time: 1773152522716
+entry_point_name: ''
+experiment_id: '109292356378130941'
+lifecycle_stage: active
+run_id: cea744dbc95f41c2baff469f87199d1a
+run_name: capable-swan-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773152521462
+status: 3
+tags: []
+user_id: madhavmanoj

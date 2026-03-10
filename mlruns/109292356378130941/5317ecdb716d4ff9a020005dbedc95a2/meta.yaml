@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/madhavmanoj/Documents/ML_Projects/NetworkSecurity/mlruns/109292356378130941/5317ecdb716d4ff9a020005dbedc95a2/artifacts
+end_time: 1773153276435
+entry_point_name: ''
+experiment_id: '109292356378130941'
+lifecycle_stage: active
+run_id: 5317ecdb716d4ff9a020005dbedc95a2
+run_name: languid-chimp-420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1773153275090
+status: 3
+tags: []
+user_id: madhavmanoj
